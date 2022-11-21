@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<lang en="us"> 
+<html>
+<!---head section of html page--->
+      <head>
+<title>HTML5 tutorial</title>     
+      </head>
+<!---Body--->
+<body>
+   <h1>HTML 5 tutorials<br> cs50</h1>
+<p>
+Html is Hypertext mark up language used to describe the structure of a Web page.
+</p>
+  <!---list--->
+<list>
+<ol>
+<li>elments</li>
+<li>tags</li>
+<li>attributes </li>
+<li>br</li>
+<li>hr</li>
+<li>p</li>
+<ol>
+</list>
+</body>
+</html>
