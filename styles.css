@@ -180,4 +180,9 @@ nav a.active {
 
 
 }
-#skills li:hover::before,#skills li:hover::after {border-color :#33CC33!important ; border-width :1.5em ;border-radius : .5em ; transition-property:border-color,border-width,border-radius;bord
+#skills li:hover::before,#skills li:hover::after {
+  border-color :#33CC33!important ; 
+  border-width :1.5em 
+  ;border-radius : .5em ; 
+  transition-property:border-color,border-width,border-radius;
+  bord
