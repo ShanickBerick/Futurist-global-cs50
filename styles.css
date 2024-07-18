@@ -185,4 +185,4 @@ nav a.active {
   border-width :1.5em 
   ;border-radius : .5em ; 
   transition-property:border-color,border-width,border-radius;
-  bord
+  border-color}
